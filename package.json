@@ -1,12 +1,12 @@
 {
-  "name": "migrate-mongodb",
-  "version": "4.0.0",
+  "name": "@shoutem/migrate-mongodb",
+  "version": "1.0.0",
   "description": "Abstract migration framework for node",
   "keywords": [
     "migrate",
     "migrations"
   ],
-  "author": "ikatun",
+  "author": "shoutem",
   "repository": "git://github.com/ikatun/node-migrate.git",
   "bin": {
     "migrate": "./bin/migrate"
