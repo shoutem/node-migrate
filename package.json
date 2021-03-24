@@ -24,6 +24,6 @@
   "license": "MIT",
   "dependencies": {
     "dateformat": "^1.0.12",
-    "promised-mongo": "*"
+    "promised-mongo": "git://github.com/tjyrkinen/promised-mongo.git#dist"
   }
 }
