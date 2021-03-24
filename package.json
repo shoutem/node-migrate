@@ -7,7 +7,7 @@
     "migrations"
   ],
   "author": "shoutem",
-  "repository": "git://github.com/ikatun/node-migrate.git",
+  "repository": "git://github.com/shoutem/node-migrate.git",
   "bin": {
     "migrate": "./bin/migrate"
   },
