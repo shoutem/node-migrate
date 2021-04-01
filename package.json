@@ -1,13 +1,13 @@
 {
-  "name": "migrate-mongodb",
-  "version": "4.0.0",
+  "name": "@shoutem/migrate-mongodb",
+  "version": "1.0.0",
   "description": "Abstract migration framework for node",
   "keywords": [
     "migrate",
     "migrations"
   ],
-  "author": "ikatun",
-  "repository": "git://github.com/ikatun/node-migrate.git",
+  "author": "shoutem",
+  "repository": "git://github.com/shoutem/node-migrate.git",
   "bin": {
     "migrate": "./bin/migrate"
   },
@@ -24,6 +24,6 @@
   "license": "MIT",
   "dependencies": {
     "dateformat": "^1.0.12",
-    "promised-mongo": "*"
+    "promised-mongo": "git://github.com/tjyrkinen/promised-mongo.git#dist"
   }
 }
