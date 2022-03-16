@@ -1,6 +1,6 @@
 {
   "name": "@shoutem/migrate-mongodb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Abstract migration framework for node",
   "keywords": [
     "migrate",
@@ -24,6 +24,6 @@
   "license": "MIT",
   "dependencies": {
     "dateformat": "^1.0.12",
-    "promised-mongo": "git://github.com/shoutem/promised-mongo.git#dist"
+    "promised-mongo": "https://github.com/shoutem/promised-mongo.git#dist"
   }
 }
